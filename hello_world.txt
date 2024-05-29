@@ -1,1 +1,3 @@
 Hello world!
+
+Git test commit template
