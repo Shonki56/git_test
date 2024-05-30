@@ -3,3 +3,4 @@ Hello world!
 Git test commit template
 
 Git test for Thinkpad X200
+
